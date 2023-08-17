@@ -8,4 +8,7 @@ operating system (OS).  This will most likely be the windows 10 or newer version
    * Do not use windows installer.  
 2. Wait while it installs.
 
+## Electronics Basics
+Before getting to the motors, sensors, and power, it is necessary to understand some basics.  
+Please read through the "chapters" from Sparkfun's [basics of electricity and ohms law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/electricity-basics)
 
