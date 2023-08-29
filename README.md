@@ -15,6 +15,7 @@ Please read through the "chapters" from Sparkfun's [basics of electricity and oh
 ## Helpful websites
 Stores: 
 1. [Adafruit.com](learn.adafruit.com) is an online store with lots of electronics, projects, and info.
-2. [Sparkfun.com](learn.sparkfun.com) similar to Adafruit.  
+2. [Sparkfun.com](learn.sparkfun.com) similar to Adafruit.
+3. [Great tutorial on motors and controlling them](https://www.instructables.com/Complete-Motor-Guide-for-Robotics/)
 
 
