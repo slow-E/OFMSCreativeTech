@@ -21,8 +21,8 @@ operating system (OS).  This will most likely be the windows 10 or newer version
 
 ## Helpful websites
 Stores: 
-1. [Adafruit.com](learn.adafruit.com) is an online store with lots of electronics, projects, and info.
-2. [Sparkfun.com](learn.sparkfun.com) similar to Adafruit.
+1. [Adafruit.com](https://learn.adafruit.com) is an online store with lots of electronics, projects, and info.
+2. [Sparkfun.com](https://learn.sparkfun.com) similar to Adafruit.
 3. [Great tutorial on motors and controlling them](https://www.instructables.com/Complete-Motor-Guide-for-Robotics/)
 
 
