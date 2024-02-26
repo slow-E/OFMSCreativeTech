@@ -25,5 +25,5 @@ Stores:
 1. [Adafruit.com](https://learn.adafruit.com) is an online store with lots of electronics, projects, and info.
 2. [Sparkfun.com](https://learn.sparkfun.com) similar to Adafruit.
 3. [Great tutorial on motors and controlling them](https://www.instructables.com/Complete-Motor-Guide-for-Robotics/)
-
+4. [Tutorial on the L298 Motor Driver](https://www.etechnophiles.com/l298n-motor-driver-pin-diagram/)
 
