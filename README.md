@@ -19,7 +19,7 @@ Go to: [Sparkfun Description of Ohm's Law](https://learn.sparkfun.com/tutorials/
 
 ## Breadboards
 We will be using “breadboards” for the majority of our projects. 
-Go to the [Science Buddies site on how to use a breadboard](https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard).  After reviewing the webpage and/or watching the video, answer the following:
+Go to the [Sparkfun site on how to use a breadboard](https://blog.sparkfuneducation.com/what-is-a-breadboard).  After reviewing the webpage and/or watching the video, answer the following:
 
 #### B. Find the picture of the lettered and numbered breadboard. Answer the following:
 1. Is A5 connected to D5?
