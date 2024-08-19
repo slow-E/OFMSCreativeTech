@@ -14,7 +14,7 @@ Go to: [Sparkfun Description of Ohm's Law](https://learn.sparkfun.com/tutorials/
 3. What do V, I and R represent in Ohm’s formula? What are their units?
 
 
-4. If you have a voltage supply of 5V and across a resistor of 50 ohms, what will the current be?
+4. If you have a voltage supply of 5V across a resistor of 50 ohms, what will the current be?
 
 
 ## Breadboards
