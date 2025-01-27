@@ -3,7 +3,7 @@
 # START HERE:
 ## Basics:
 
-#### A. Read through the following web page and answer the following questions.
+#### Read through the following web page and answer the following questions.
 Go to: [Sparkfun Description of Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/electricity-basics)
 1. What is Electricity? 
 2. What is the formula for Ohm’s Law?
@@ -15,13 +15,13 @@ Go to: [Sparkfun Description of Ohm's Law](https://learn.sparkfun.com/tutorials/
 We will be using “breadboards” for the majority of our projects. 
 Go to the [Sparkfun site on how to use a breadboard](https://blog.sparkfuneducation.com/what-is-a-breadboard).  After reviewing the webpage and/or watching the video, answer the following:
 
-#### B. Find the picture of the lettered and numbered breadboard. Answer the following:
+#### Find the picture of the lettered and numbered breadboard. Answer the following:
 1. Is A5 connected to D5?
 2. Is C12 connected to D12?
 3. Is 2E connected to 2F?
 4. Is 15D connected to 14D?
 
-#### C. What are the strips along the side called? What are they generally used for? 
+#### What are the strips along the side called? What are they generally used for? 
 
 ## Number 3: Safety
 1. Always turn off power or disconnect power from the circuit when adding, changing, or moving components on the breadboard or microcontroller board.
@@ -29,7 +29,7 @@ Go to the [Sparkfun site on how to use a breadboard](https://blog.sparkfuneducat
 3. All components have a maximum current and voltage that they can handle.  Exceeding these limits will damage the component. This is what Ohm's law is for.  Use resistors to limit current where appropriate. 
 
 ## First Circuit:
-#### D.   Go to [Sparkfun page on LEDs](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds) and use a breadboard to build the circuit shown in the "LEDs Without Math" section.
+#### Go to [Sparkfun page on LEDs](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds) and use a breadboard to build the circuit shown in the "LEDs Without Math" section.
 
 
 # Next Steps
