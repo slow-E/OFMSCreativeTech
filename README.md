@@ -6,14 +6,8 @@
 #### A. Read through the following web page and answer the following questions.
 Go to: [Sparkfun Description of Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/electricity-basics)
 1. What is Electricity? 
-
-
 2. What is the formula for Ohm’s Law?
-
-
 3. What do V, I and R represent in Ohm’s formula? What are their units?
-
-
 4. If you have a voltage supply of 5V across a resistor of 50 ohms, what will the current be?
 
 
@@ -23,15 +17,11 @@ Go to the [Sparkfun site on how to use a breadboard](https://blog.sparkfuneducat
 
 #### B. Find the picture of the lettered and numbered breadboard. Answer the following:
 1. Is A5 connected to D5?
-
 2. Is C12 connected to D12?
-
 3. Is 2E connected to 2F?
-
 4. Is 15D connected to 14D?
 
 #### C. What are the strips along the side called? What are they generally used for? 
-
 
 ## Number 3: Safety
 1. Always turn off power or disconnect power from the circuit when adding, changing, or moving components on the breadboard or microcontroller board.
